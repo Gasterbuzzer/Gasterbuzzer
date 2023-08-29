@@ -1,7 +1,6 @@
 - Hi, I’m @Gasterbuzzer
-- I’m interested in GitHub
-- I’m currently learning Coding
 - I’m looking to collaborate on fun projects.
+- Even if it is the weirdest project, I am interested.
 - You can reach me by writting a message or searching for any other Accounts named the same and message me there.
 
 <!---
